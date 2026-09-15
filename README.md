@@ -1,3 +1,4 @@
-# How to use:
-Run from the folder containing sam.exe and SDL.dll.
-# The Russian anthem for the SAM s-macke port for C
+# Как использовать:
+Запустите из папки, содержащей sam.exe и SDL.dll.
+
+# Гимн России для SAM [s-macke/SAM](https://github.com/s-macke/SAM "s-macke/SAM on GitHub").
